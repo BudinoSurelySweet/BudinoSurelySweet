@@ -29,6 +29,11 @@
 ![Static Badge](https://img.shields.io/badge/RenPy-%23FF7F7F?style=for-the-badge&logo=renpy&logoColor=ffffff&labelColor=%23FF7F7F)
 ![Static Badge](https://img.shields.io/badge/Roblox_Studio-%2300A2FF?style=for-the-badge&logo=robloxstudio&logoColor=ffffff&labelColor=%2300A2FF)
 
+<h3> /> Assets Creation</h3>
+
+![Static Badge](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=E87D0D)
+![Static Badge](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=ffffff&labelColor=7D929E)
+
 <h3> /> Photography, Graphics and Video</h3>
 
 ![Static Badge](https://img.shields.io/badge/Adobe_Lightroom-2024-ffffff?style=for-the-badge&logo=adobelightroomclassic&logoColor=%23FFFFFF&labelColor=31A8FF&color=ffffff)
@@ -39,7 +44,7 @@
 ![Static Badge](https://img.shields.io/badge/Adobe_After_Effects-2024-ffffff?style=for-the-badge&logoColor=%23FFFFFF&labelColor=9999FF&color=ffffff)
 ![Static Badge](https://img.shields.io/badge/DaVinci_Resolve-18.6-ffffff?style=for-the-badge&logo=davinciresolve&logoColor=%23FFFFFF&labelColor=233A51&color=ffffff)
 
-<h3> /> ...</h3>
+<h3> /> Documents</h3>
 
 ![Static Badge](https://img.shields.io/badge/Micosoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=ffffff&labelColor=2B579A)
 ![Static Badge](https://img.shields.io/badge/Micosoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff&labelColor=217346)
@@ -51,11 +56,6 @@
 ![Static Badge](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=000000&labelColor=FBBC04)
 ![Static Badge](https://img.shields.io/badge/LibreOffice_Calc-007C3C?style=for-the-badge&logo=libreofficecalc&logoColor=ffffff&labelColor=007C3C)
 ![Static Badge](https://img.shields.io/badge/LibreOffice_Writer-%23083FA6?style=for-the-badge&logo=libreofficewriter&logoColor=ffffff&labelColor=%23083FA6)
-
-<h3> /> Assets Creation</h3>
-
-![Static Badge](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=E87D0D)
-![Static Badge](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=ffffff&labelColor=7D929E)
 
 <h3> /> Others</h3>
 
