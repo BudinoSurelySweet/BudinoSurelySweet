@@ -3,7 +3,7 @@
 
 <ol type="I">
 	<li><b>🌡️ Real name</b> : <kbd>█████ ███████</kbd></li>
-	<li><b>🏔️ Nationality</b> : <kbd>ITALIAN</kbd></li>
+	<li><b>🏔️ Nationality</b> : <kbd>Italian</kbd></li>
 	<li><b>🏛️ Age</b> : <kbd>18</kbd></li>
 	<li><b>🫐 Hobbys</b> : [<kbd>Videogames</kbd>, <kbd>Math</kbd>, <kbd>Informatics</kbd>]</li>
 	<li><b>🌱 Dream Job</b> : <kbd>Indie Game Developer</kbd></li>
@@ -76,8 +76,27 @@
 - Published the first game I every made: Pixiorans (made in Construct3) ~ 2020-09-06
 
 <h2> /> Social </h2>
-discord, github, patreon, instagram, tiktok, itch.io, fandom, twitter/x, thread, reddit, youtube, steam, buy me a coffee, ko-fi, gumroad, fiverr, kickstarter, Linkedin, pinterest, stack overflow
 
+![Static Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=%23FFDD00)
+![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=%235865F2)
+![Static Badge](https://img.shields.io/badge/Fandom-%23FA005A?style=for-the-badge&logo=fandom&logoColor=ffffff&labelColor=%23FA005A)
+![Static Badge](https://img.shields.io/badge/Fiverr-%231DBF73?style=for-the-badge&logo=fiverr&logoColor=ffffff&labelColor=%231DBF73)
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=%23181717)
+![Static Badge](https://img.shields.io/badge/Gumroad-%23FF90E8?style=for-the-badge&logo=gumroad&logoColor=000000&labelColor=%23FF90E8)
+![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=%23E4405F)
+![Static Badge](https://img.shields.io/badge/Itch.io-%23FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=ffffff&labelColor=%23FA5C5C)
+![Static Badge](https://img.shields.io/badge/Kickstarter-%2305CE78?style=for-the-badge&logo=kickstarter&logoColor=ffffff&labelColor=%2305CE78)
+![Static Badge](https://img.shields.io/badge/Ko_fi-%23FF5E5B?style=for-the-badge&logo=kofi&logoColor=ffffff&labelColor=%23FF5E5B)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=%230A66C2)
+![Static Badge](https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=ffffff&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Pinterest-%23BD081C?style=for-the-badge&logo=pinterest&logoColor=ffffff&labelColor=%23BD081C)
+![Static Badge](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff&labelColor=%23FF4500)
+![Static Badge](https://img.shields.io/badge/Stack_Overflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&labelColor=%23F58025)
+![Static Badge](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=ffffff&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Threads-%23000000?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=ffffff&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=ffffff&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=%23FF0000)
 
 <h2> /> Trivia </h2>
 
