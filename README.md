@@ -12,6 +12,8 @@
 
 <h2> /> Experience </h2>
 
+<p> During my adventure undertaken years ago, I used the following programs, some more and others less. </p>
+
 <h3 align="center"> /> Informatics</h3>
 
 <p align="center">
