@@ -88,6 +88,8 @@
 
 <h2> /> Social </h2>
 
+<p> Below is a big list of social media and I will be adding my various accounts as I go along. </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=%23FFDD00">
   <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=%235865F2">
