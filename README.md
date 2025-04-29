@@ -2,10 +2,10 @@
 
 
 <ol type="I">
-	<li><b>🌡️ Real name</b> : <kbd>█████ ███████</kbd></li>
+	<li><b>🌡️ Real name</b> : <kbd>Marco Molossi</kbd></li>
 	<li><b>🏔️ Nationality</b> : <kbd>Italian</kbd></li>
-	<li><b>🏛️ Age</b> : <kbd>18</kbd></li>
-	<li><b>🫐 Hobbys</b> : [<kbd>Videogames</kbd>, <kbd>Math</kbd>, <kbd>Informatics</kbd>]</li>
+	<li><b>🏛️ Age</b> : <kbd>19</kbd></li>
+	<li><b>🫐 Hobbys</b> : [<kbd>Videogames</kbd>, <kbd>Informatics</kbd>]</li>
 	<li><b>🌱 Dream Job</b> : <kbd>Indie Game Developer</kbd></li>
 	<li><b>🍃 Languages</b> : <kbd>Italian</kbd>, <kbd>English</kbd></li>
 </ol>
