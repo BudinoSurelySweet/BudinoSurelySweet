@@ -88,30 +88,7 @@
 
 <h2> /> Social </h2>
 
-<p> Below is a big list of social media and I will be adding my various accounts as I go along. </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=%23FFDD00">
-  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=%235865F2">
-  <img src="https://img.shields.io/badge/Fandom-%23FA005A?style=for-the-badge&logo=fandom&logoColor=ffffff&labelColor=%23FA005A">
-  <img src="https://img.shields.io/badge/Fiverr-%231DBF73?style=for-the-badge&logo=fiverr&logoColor=ffffff&labelColor=%231DBF73">
-  <img src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=%23181717">
-  <img src="https://img.shields.io/badge/Gumroad-%23FF90E8?style=for-the-badge&logo=gumroad&logoColor=000000&labelColor=%23FF90E8">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=%23E4405F">
-  <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=ffffff&labelColor=%23FA5C5C">
-  <img src="https://img.shields.io/badge/Kickstarter-%2305CE78?style=for-the-badge&logo=kickstarter&logoColor=ffffff&labelColor=%2305CE78">
-  <img src="https://img.shields.io/badge/Ko_fi-%23FF5E5B?style=for-the-badge&logo=kofi&logoColor=ffffff&labelColor=%23FF5E5B">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=%230A66C2">
-  <img src="https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=ffffff&labelColor=%23000000">
-  <img src="https://img.shields.io/badge/Pinterest-%23BD081C?style=for-the-badge&logo=pinterest&logoColor=ffffff&labelColor=%23BD081C">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff&labelColor=%23FF4500">
-  <img src="https://img.shields.io/badge/Stack_Overflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&labelColor=%23F58025">
-  <img src="https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=ffffff&labelColor=%23000000">
-  <img src="https://img.shields.io/badge/Threads-%23000000?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=%23000000">
-  <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=ffffff&labelColor=%23000000">
-  <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=ffffff&labelColor=%23000000">
-  <img src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=%23FF0000">
-</p>
+If you want to get to know me better and stay in touch you can visit my <a href="https://marcomolossi.pages.dev/follow/">socials</a> or my <a href="https://marcomolossi.pages.dev/">website</a> anytime. 
 
 <h2> /> Trivia </h2>
 
