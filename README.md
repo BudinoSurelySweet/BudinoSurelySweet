@@ -1,20 +1,20 @@
-<h1 align="center"> /> Hi, I'm <b>Budino</b> <3 </h1>
+<h1 align="center"> Hi, I'm <b>Marco Molossi</b> </h1>
 
 
 <ol type="I">
-	<li><b>🌡️ Real name</b> : <kbd>Marco Molossi</kbd></li>
-	<li><b>🏔️ Nationality</b> : <kbd>Italian</kbd></li>
-	<li><b>🏛️ Age</b> : <kbd>19</kbd></li>
-	<li><b>🫐 Hobbies</b> : [<kbd>Videogames</kbd>, <kbd>Informatics</kbd>]</li>
-	<li><b>🌱 Dream Job</b> : <kbd>Indie Game Developer</kbd></li>
-	<li><b>🍃 Languages</b> : <kbd>Italian</kbd>, <kbd>English</kbd></li>
+	<li><b>Nickname</b>: BudinoSurelySweet</li>
+	<li><b>Nationality</b>: Italian</li>
+	<li><b>Age</b>: 20</li>
+	<li><b>Hobbies</b>: [Videogames, Programming, Anime]</li>
+	<li><b>Dream Job</b>: Indie Game/Software Developer</li>
+	<li><b>Languages</b>: Italian, English</li>
 </ol>
 
-<h2> /> Experience </h2>
+<h2> Experience </h2>
 
 <p> During my adventure undertaken years ago, I used the following programs, some more and others less. </p>
 
-<h3 align="center"> /> Informatics</h3>
+<h3 align="center"> Informatics</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-ffffff?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB&color=ffffff">
@@ -33,14 +33,14 @@
   <img src="https://img.shields.io/badge/Roblox_Studio-%2300A2FF?style=for-the-badge&logo=robloxstudio&logoColor=ffffff&labelColor=%2300A2FF">
 <p>
 
-<h3 align="center"> /> Assets Creation</h3>
+<h3 align="center"> Assets Creation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=E87D0D">
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=ffffff&labelColor=7D929E">
 <p>
 
-<h3 align="center"> /> Photography, Graphics and Video</h3>
+<h3 align="center"> Photography, Graphics and Video</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe_Lightroom-2024-ffffff?style=for-the-badge&logo=adobelightroomclassic&logoColor=%23FFFFFF&labelColor=31A8FF&color=ffffff">
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/DaVinci_Resolve-18.6-ffffff?style=for-the-badge&logo=davinciresolve&logoColor=%23FFFFFF&labelColor=233A51&color=ffffff">
 </p>
 
-<h3 align="center"> /> Documents</h3>
+<h3 align="center"> Documents</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Micosoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=ffffff&labelColor=2B579A">
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/LibreOffice_Writer-%23083FA6?style=for-the-badge&logo=libreofficewriter&logoColor=ffffff&labelColor=%23083FA6">
 </p>
 
-<h3 align="center"> /> Others</h3>
+<h3 align="center"> Others</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Chess.com-%2381B64C?style=for-the-badge&logo=chessdotcom&logoColor=ffffff&labelColor=81B64C">
@@ -81,19 +81,19 @@
   <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=ffffff&labelColor=%23000000">
 </p>
 
-<h2> /> Achievements </h2>
+<h2> Achievements </h2>
 
 - Published the first game made with Godot Engine: Deserved The Definition of Pain ~ 2024-04-08
 - Published the first game I every made: Pixiorans (made in Construct3) ~ 2020-09-06
 
-<h2> /> Social </h2>
+<h2> Social </h2>
 
 If you want to get to know me better and stay in touch you can visit my <a href="https://marcomolossi.pages.dev/follow/">socials</a> or my <a href="https://marcomolossi.pages.dev/">website</a> anytime. 
 
-<h2> /> Trivia </h2>
+<h2> Trivia </h2>
 
-- Budino's favourite singer is Ado.
-- Budino watched more than 300 anime ≌­ more than 1879 hours.
-- Budino's favourite animal is cat.
-- Budino prefers black tea for its flavour.
+- My favourite singer is Ado.
+- I've watched more than 300 anime ≌­ more than 1879 hours.
+- My favourite animal is cat.
+- I prefers black tea for its flavour.
 - Budino is an Italian word that translates to "pudding" in English.
