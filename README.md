@@ -85,6 +85,7 @@
 
 - Published the first game made with Godot Engine: Deserved The Definition of Pain ~ 2024-04-08
 - Published the first game I every made: Pixiorans (made in Construct3) ~ 2020-09-06
+- Born ~ 2006-03-19
 
 <h2> Social </h2>
 
