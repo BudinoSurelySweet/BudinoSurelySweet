@@ -14,7 +14,19 @@
 
 <p> During my adventure undertaken years ago, I used the following programs, some more and others less. </p>
 
-<h3 align="center"> Informatics</h3>
+- Languages & Technologies: Python, C, Rust, and version control with Git.
+- Game Engines: Godot, Construct 3, GameMaker, Ren'Py, and Roblox Studio.
+
+Assets Creation
+
+- 3D modeling and animation with Blender.
+- Pixel art and 2D animation with Aseprite.
+
+Photography, Graphics and Video
+- Adobe Creative Cloud (2024 Version): Lightroom, Photoshop, Illustrator, InDesign, Premiere Pro, and After Effects.
+- Video Editing & Color Grading: DaVinci Resolve (v18.6).
+
+<!-- <h3 align="center"> Informatics</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-ffffff?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB&color=ffffff">
@@ -79,7 +91,7 @@
   <img src="https://img.shields.io/badge/Chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=%234285F4">
   <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=ffffff&labelColor=%237C3AED">
   <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=ffffff&labelColor=%23000000">
-</p>
+</p> -->
 
 <h2> Achievements </h2>
 
