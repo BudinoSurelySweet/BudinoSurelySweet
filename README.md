@@ -101,7 +101,7 @@ Photography, Graphics and Video
 
 <h2> Social </h2>
 
-If you want to get to know me better and stay in touch you can visit my <a href="https://marcomolossi.pages.dev/follow/">socials</a> or my <a href="https://marcomolossi.pages.dev/">website</a> anytime. 
+If you want to get to know me better and stay in touch you can visit my <a href="https://marcomolossi.pages.dev/links/">socials</a> or my <a href="https://marcomolossi.pages.dev/">website</a> anytime. 
 
 <h2> Trivia </h2>
 
